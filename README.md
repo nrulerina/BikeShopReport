@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis with Power BI & MySQL
 <p align="center">
-  <img src="https://media.giphy.com/media/BPgLFpZ91qE7BsrXMG/giphy.gif?cid=790b7611kbbe84jlfc8sn8wc1t05oektxsefx0z3l8amoirt&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Bike GIF" width="200">
+  <img src="https://media.giphy.com/media/BPgLFpZ91qE7BsrXMG/giphy.gif?cid=790b7611kbbe84jlfc8sn8wc1t05oektxsefx0z3l8amoirt&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Bike GIF" width="500">
 </p>
 
 
