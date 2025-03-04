@@ -1,6 +1,6 @@
 # 🍕 Bike Shop Report with Power BI & SQL Server
 <p align="center">
-  <img src="https://media.giphy.com/media/BPgLFpZ91qE7BsrXMG/giphy.gif?cid=790b7611kbbe84jlfc8sn8wc1t05oektxsefx0z3l8amoirt&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Bike GIF" width="500">
+  <img src="https://media.giphy.com/media/BPgLFpZ91qE7BsrXMG/giphy.gif?cid=790b7611kbbe84jlfc8sn8wc1t05oektxsefx0z3l8amoirt&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Bike GIF" width="400">
 </p>
 
 
