@@ -12,3 +12,15 @@ This project analyzes bike sales using **CSV data** imported into **SQL Server**
 </p>
 
 
+## 🛠️ Project Workflow  
+
+### 🔹 Part 1: SQL Server  
+1. **Create Database**: Import CSV data into SQL Server.  
+2. **Write Queries**: Execute SQL queries to (Edit balik ni) tengk query nanti edit .  
+
+### 🔹 Part 2: Power BI  
+1. **Connect to SQL Server**: Load processed data into Power BI.  
+2. **Data Cleaning**: Handle missing values, duplicates, and inconsistencies.  
+3. **Data Processing**: Transform and model the data for reporting.  
+4. **Data Visualization**: Create meaningful charts and graphs.  
+5. **Dashboard & Report**: Build an interactive Power BI dashboard for analysis.  
